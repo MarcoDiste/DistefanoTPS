@@ -1,0 +1,150 @@
+﻿1
+00:00:00,180 --> 00:00:05,260
+oggi andremo ad analizzare il criterio di successo riguardante il termine del tempo
+
+2
+00:00:06,280 --> 00:00:09,600
+allora intanto partiamo dal presupposto che
+
+3
+00:00:09,600 --> 00:00:16,500
+appunto questo criterio riguarda solamente i termini del tempo
+
+4
+00:00:20,600 --> 00:00:21,120
+ovvero i timeout, le inattività di un utente e molto altro
+
+5
+00:00:21,120 --> 00:00:22,680
+allora partiamo intanto dal parlare qual è lo scopo del criterio
+ovvero i timeout, le inattività di un utente e molto altro
+
+6
+00:00:22,680 --> 00:00:26,280
+allora partiamo intanto dal parlare qual è lo scopo del criterio
+
+7
+00:00:39,320 --> 00:00:44,420
+ovvero il suo funzionamento; allora praticamente lo scopo del seguente criterio è appunto garantire che quando viene effettuato un timeout dall'utente, gli altri utenti sappiano quale durata dell'inattività causerà.
+
+8
+00:00:54,380 --> 00:00:54,400
+quindi potrebbe stare dalla mezz'ora o ad esempio da due ore e più timeout c'è e alla pagina verrà causata una perdita di dati
+
+9
+00:01:01,380 --> 00:01:08,400
+poi parliamo che durante il completamento di un processo online ad esempio per prenotare una camera d'albergo o acquistare un biglietto per
+
+10
+00:01:10,360 --> 00:01:13,300
+andare a vedere una partita, un utente con deficit cognitivo può essere travolto da lunghe istruzioni di input
+
+11
+00:01:13,300 --> 00:01:14,400
+per completare il processo e questo potrebbe riguardo agli utenti, che appunto non tutti sono in grado
+andare a vedere una partita, un utente con deficit cognitivo può essere travolto da lunghe istruzioni di input
+
+12
+00:01:14,400 --> 00:01:19,400
+per completare il processo e questo potrebbe riguardo agli utenti, che appunto non tutti sono in grado
+
+13
+00:01:21,360 --> 00:01:25,360
+di appunto di farlo e quindi potrebbe abbandonare il processo senza perdere la loro condizione attuale
+
+14
+00:01:28,360 --> 00:01:33,120
+e quindi non perdere le informazioni che sono già state inserite
+
+15
+00:01:38,000 --> 00:01:43,120
+poi andiamo ad analizzare i punti di vantaggio di questo criterio, allora il seguente criterio aiuta gli utenti
+
+16
+00:01:50,040 --> 00:01:54,120
+garantendogli che appunto vengano informati dei timeout, ovviamente relativi all'inattività e appunto
+
+17
+00:02:02,040 --> 00:02:05,120
+se un utente sa quanto gli è concesso per un'attività saprà se può fare una pausa o meno, quindi
+
+18
+00:02:10,060 --> 00:02:10,080
+magari una pausa necessaria di ad esempio dieci minuti per poi riprendere il lavoro senza dover ricominciare
+
+19
+00:02:21,060 --> 00:02:21,100
+e appunto questo consenta a molti utenti di completare l'attività online che altrimenti non potrebbero svolgere
+
+20
+00:02:33,080 --> 00:02:33,100
+magari per mancanza di tempo o per intervalli o per altre cose
+
+21
+00:02:45,100 --> 00:02:49,060
+un cosa molto importante di questo criterio di succeso è che aiuta le persone con diverse disabilità cognitive
+
+22
+00:02:50,120 --> 00:02:50,140
+le persone con purtroppo disabilità legate alla memoria, alla lingua, alla focalizzazione e all'attenzione
+
+23
+00:02:56,080 --> 00:02:56,120
+e inoltre alle disabilità che influenzano la funzione esecutiva del processo decisionale, quindi
+
+24
+00:03:04,840 --> 00:03:05,100
+è un gran cosa e sono gradni punti di vantaggio per queste persone
+
+25
+00:03:20,100 --> 00:03:20,220
+ora andremo a vedere appunto che il seguente criterio sa analizzare bene le inattività ovvero
+
+26
+00:03:30,460 --> 00:03:30,520
+se noi o un semplice utente sta troppo via potrebbe causare la perdita di dati del lavoro che stava svolgendo in ogni programma
+
+27
+00:03:37,420 --> 00:03:37,460
+appunto almeno che i dati non vengano conservati per più di venti ore quando però
+
+28
+00:03:45,280 --> 00:03:45,500
+ormai l'utente non intraprenda alcun azione,questa è una cosa che il seguente criterio di successo ne prende nota
+
+29
+00:03:53,400 --> 00:03:53,480
+e riesce a dare informazioni sull'inattività, cosa che è molto importante per gestire sempre il termine del tempo
+
+30
+00:04:09,000 --> 00:04:09,060
+ora andremo a vedere alcuni esempi che sono riguardanti il seguente criterio ad esempio come appunto è scritto qua durante un acquisto
+
+31
+00:04:21,560 --> 00:04:22,060
+su un sito web di E-Commerce, appunto le informazioni immesse dll'utente vengono conservate per più di venti ore
+
+32
+00:04:27,840 --> 00:04:28,000
+questo aiuta a garantire che se hanno bisogno di smettere di lavorare per un po' è più probabile che siano in grado
+
+33
+00:04:32,740 --> 00:04:32,960
+di continuare l'acquisto quando ritornano, qundi se magari si devono prendere un intervallo di tempo
+
+34
+00:04:41,480 --> 00:04:41,700
+da per esempio da quaranta minuti o un'ora è più probabile che appunto grazie al criterio che permette di
+
+35
+00:04:46,460 --> 00:04:52,040
+prendere un intervallo senza però perdere i dati che avevano già preso prima, magari ad esempio avevano iniziato ad acquisire
+
+36
+00:04:57,040 --> 00:05:00,040
+appunto un prodotto su un sito di web E-COMMERCE magari per non perdere i dati o ricominciare da capo dopo l'intervallo
+
+37
+00:05:06,040 --> 00:05:09,040
+è più probabile che appunto magari se prendono una pausa perchè hanno lavorato tante ore è più probabile che dopo siano in grado di continuare l'acquisto
+
